@@ -13,5 +13,5 @@ I'm an aspiring LLM Engineer focused on building practical, real-world AI system
 Build production-minded LLM systems that solve real business problems.
 
 ### 📫 Contact
-- LinkedIn: 
-- Email: theobrails@gmail.com
+- LinkedIn: www.linkedin.com/in/theobrails
+- Email: teddyfromfullsail@gmail.com
